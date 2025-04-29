@@ -1,0 +1,63 @@
+Terms of Service for WeezBot
+Last Updated: [April 29, 2025]
+
+By using WeezBot (the “Bot”) on Discord, you agree to the following Terms of Service. If you do not agree to these terms, please do not use the Bot.
+
+1. Description of Service
+WeezBot is a utility and interaction bot for Discord servers. Key features currently include:
+
+Copying stickers from a message via a /copy command and uploading them to the server (if permitted).
+
+Responding with a greeting when a user sends a message containing “hello” (or similar variants) in a server channel.
+
+Additional features may be added or removed at any time.
+
+2. Usage Requirements
+By using the Bot, you agree that you will:
+
+Use the Bot in accordance with Discord’s Terms of Service and Community Guidelines.
+
+Not attempt to exploit, reverse engineer, or abuse the Bot or its features.
+
+Only use the /copy command on stickers that you have rights to use and where server permissions allow.
+
+You are responsible for ensuring the Bot is used appropriately in your server.
+
+3. Data Usage and Privacy
+To function correctly, the Bot processes the following information temporarily:
+
+For /copy: Message URLs, including associated sticker metadata.
+
+For greeting users: Message content (e.g., checking for "hello").
+
+General: User IDs, usernames, and server/channel IDs for command context and logging.
+
+No personal data is permanently stored. All data is processed in memory and discarded after the operation completes.
+
+See the Privacy Policy for further details.
+
+4. Limitations of Liability
+The Bot is provided "as is", with no guarantees of uptime, accuracy, or reliability. The developer is not responsible for:
+
+Misuse of the Bot or its commands.
+
+Any violation of Discord's rules caused by user actions.
+
+Potential message spam resulting from automatic greetings.
+
+Server administrators are responsible for configuring and monitoring Bot behavior in their communities.
+
+5. Access and Termination
+The Bot owner reserves the right to:
+
+Deny access to the Bot for any user or server.
+
+Disable or modify features at any time without notice.
+
+Shut down the Bot entirely, temporarily or permanently.
+
+6. Updates to the Terms
+These Terms may be modified at any time. Continued use of the Bot after changes are posted constitutes acceptance of the updated terms.
+
+7. Contact
+For questions or issues related to the Bot or these Terms, please contact: potac (discord)
