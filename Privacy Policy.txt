@@ -1,0 +1,56 @@
+Privacy Policy for WeezBot
+Last Updated: April 29, 2025
+
+This Privacy Policy describes how WeezBot (the “Bot”) handles data when used on Discord servers. By using the Bot, you agree to this policy. If you do not agree, please remove the Bot from your server or stop using it.
+
+1. What Data WeezBot Processes
+WeezBot only processes limited information necessary for functionality and does not permanently store or share your data. Data is processed in-memory only and discarded immediately after use.
+
+a. When you use /copy:
+Message URL (provided by the user)
+
+Message content (for retrieving the sticker)
+
+Sticker metadata (such as name, image, and associated emoji)
+
+Server and user IDs (to determine context and permission)
+
+b. When users say “hello”:
+Message content is briefly checked for greeting words (e.g., "hello", "hi")
+
+Username or nickname (for responding with a greeting)
+
+Channel ID (for sending the reply)
+
+c. Basic logging (optional/debugging only):
+We may temporarily log basic information such as command usage or errors to troubleshoot issues. These logs do not contain personal data and are not stored permanently.
+
+2. What WeezBot Does Not Do
+❌ WeezBot does not collect or store private messages (DMs).
+
+❌ WeezBot does not track users across servers.
+
+❌ WeezBot does not share or sell data to third parties.
+
+❌ WeezBot does not create user profiles or store persistent data.
+
+3. Third-Party Services
+WeezBot operates solely within Discord's platform and uses Discord's API. As such, your use of the Bot is also governed by:
+
+Discord’s Privacy Policy
+
+Discord’s Terms of Service
+
+4. Data Retention
+WeezBot does not retain any personal data beyond the life of a command or event. Temporary logs (if enabled for error diagnostics) are cleared regularly and anonymized where possible.
+
+5. Children's Privacy
+WeezBot is intended for use by Discord users who meet Discord's minimum age requirement (typically 13 years old). We do not knowingly collect information from individuals under that age.
+
+6. Changes to This Policy
+This Privacy Policy may be updated periodically. Significant changes will be posted via GitHub, a Discord support server, or other communication channels associated with WeezBot.
+
+7. Contact
+For questions or concerns about your privacy or this policy, you can reach the developer of WeezBot at:
+
+💬 Discord: potac
