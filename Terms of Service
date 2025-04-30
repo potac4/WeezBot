@@ -1,7 +1,7 @@
 Terms of Service for WeezBot
-Last Updated: [April 29, 2025]
+Last Updated: April 29, 2025
 
-By using WeezBot (the “Bot”) on Discord, you agree to the following Terms of Service. If you do not agree to these terms, please do not use the Bot.
+By using WeezBot (the "Bot") on Discord, you agree to the following Terms of Service. If you do not agree to these terms, please do not use the Bot.
 
 1. Description of Service
 WeezBot is a utility and interaction bot for Discord servers. Key features currently include:
@@ -9,6 +9,12 @@ WeezBot is a utility and interaction bot for Discord servers. Key features curre
 Copying stickers from a message via a /copy command and uploading them to the server (if permitted).
 
 Responding with a greeting when a user sends a message containing “hello” (or similar variants) in a server channel.
+
+Reaction Roles: Allows users to assign roles by reacting to specific messages with predefined emojis.
+
+Random Cat Picture Fetching: Users can request random cat pictures, and the bot will fetch an image from an external API.
+
+Remind Me Functionality: Users can set reminders that the bot will send via direct message after a set amount of time.
 
 Additional features may be added or removed at any time.
 
@@ -21,7 +27,13 @@ Not attempt to exploit, reverse engineer, or abuse the Bot or its features.
 
 Only use the /copy command on stickers that you have rights to use and where server permissions allow.
 
-You are responsible for ensuring the Bot is used appropriately in your server.
+Use reaction roles appropriately and in accordance with your server's rules and role permissions.
+
+Use the cat picture feature only for fun and non-harmful purposes.
+
+Set reminders responsibly and not for spam or disruptive behavior.
+
+Ensure the Bot is used appropriately in your server.
 
 3. Data Usage and Privacy
 To function correctly, the Bot processes the following information temporarily:
@@ -30,20 +42,30 @@ For /copy: Message URLs, including associated sticker metadata.
 
 For greeting users: Message content (e.g., checking for "hello").
 
-General: User IDs, usernames, and server/channel IDs for command context and logging.
+For Reaction Roles: User ID, username, message ID, and emoji reaction data.
+
+For Random Cat Pictures: User ID and the request command to fetch an image from a third-party API.
+
+For Remind Me Function: User ID, reminder message, and time delay.
 
 No personal data is permanently stored. All data is processed in memory and discarded after the operation completes.
+
+WeezBot does not collect sensitive personal information unless explicitly stated. By using the Bot, you acknowledge that you are also subject to the terms of service of any third-party services integrated with the Bot, such as the random cat picture API.
 
 See the Privacy Policy for further details.
 
 4. Limitations of Liability
-The Bot is provided "as is", with no guarantees of uptime, accuracy, or reliability. The developer is not responsible for:
+The Bot is provided "as is," with no guarantees of uptime, accuracy, or reliability. The developer is not responsible for:
 
 Misuse of the Bot or its commands.
 
 Any violation of Discord's rules caused by user actions.
 
 Potential message spam resulting from automatic greetings.
+
+Inaccurate or unavailable content from third-party services (e.g., random cat pictures).
+
+The bot's inability to deliver reminders if users' privacy settings prevent DMs or if the bot experiences downtime.
 
 Server administrators are responsible for configuring and monitoring Bot behavior in their communities.
 
@@ -52,7 +74,7 @@ The Bot owner reserves the right to:
 
 Deny access to the Bot for any user or server.
 
-Disable or modify features at any time without notice.
+Disable or modify features at any time without notice, including the addition or removal of reaction roles, cat pictures, and reminder functionalities.
 
 Shut down the Bot entirely, temporarily or permanently.
 
@@ -60,4 +82,6 @@ Shut down the Bot entirely, temporarily or permanently.
 These Terms may be modified at any time. Continued use of the Bot after changes are posted constitutes acceptance of the updated terms.
 
 7. Contact
-For questions or issues related to the Bot or these Terms, please contact: potac (discord)
+For questions or issues related to the Bot or these Terms, please contact:
+potac (Discord)
+
